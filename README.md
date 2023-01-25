@@ -1,7 +1,7 @@
 # Voron Zero
 # LDO Fork of Voron V0.2 Repo
 
-## Use the pre-set PLATES in the LDO directory to quickly print the recommended part.
+## Use the pre-set PLATES in the [LDO directory](https://github.com/camerony/Voron-0/tree/LDOVoron0.2/STLs/LDO) to quickly print the recommended part.
 ## Be sure in import the plates rather than just opening using your preferred slicer.
 
 Some files have been renamed with SKIP_ or OPTIONAL_.  
