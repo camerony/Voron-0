@@ -1,4 +1,12 @@
 # Voron Zero
+# LDO Fork of Voron V0.2 Repo
+
+##Use the pre-set PLATES in the LDO directory to quickly print the recommended part.
+##Be sure in import the plates rather than just opening using your preferred slicer.
+
+Some files have been renamed with SKIP_ or OPTIONAL_.  
+SKIP parts are not required for the LDO Kit.
+OPTIONAL parts are optional.  
 
 [**DOWNLOAD**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2.zip)
 
